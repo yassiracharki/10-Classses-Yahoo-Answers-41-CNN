@@ -1,6 +1,6 @@
 # 🤷‍ 10  Classses Text Classification Yahoo Answers 42.51%% CNN
 
-#picture
+![15](https://github.com/user-attachments/assets/a348134b-2b00-4bdf-b871-aaa3b78bc965)
 
 1. Download and Imports
 2. Functions
